@@ -1,0 +1,30 @@
+{
+    "name": "retreon",
+    "displayName": "Retreon Color Theme",
+    "description": "A dark high contrast neon 80's esque color theme ",
+    "version": "0.0.1",
+    "author": {
+        "email": "kennygscott@protonmail.com",
+        "name": "Kenny G Scott",
+        "url": "https://github.com/KennyGScott/"
+    },
+    "bugs": {
+        "url": "https://github.com/KennyGScott/retreon-vscode-theme/issues"
+    },
+    "keywords": ["colorful", "dark", "high contrast", "retro", "neon", "80s"],
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Retreon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Retreon-color-theme.json"
+            }
+        ]
+    }
+}
