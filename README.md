@@ -9,3 +9,4 @@ This theme is current optimized for display on Mac...adjustments are and will co
 - Active tab list item not highlighted
 - brighten dark purples slightly
 - brighten inactive tab foreground slightly
+- make selected search term easier to see (brighter color?)
