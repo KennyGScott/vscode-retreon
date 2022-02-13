@@ -3,7 +3,7 @@
     "publisher": "kgscott",
     "displayName": "Retreon Color Theme",
     "description": "A dark high contrast neon 80's cyberpunk-esque color theme ",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": {
         "email": "kenny.scott@design-ninja.net",
         "name": "Kenny G Scott",
@@ -21,7 +21,8 @@
         "high contrast",
         "retro",
         "neon",
-        "80s"
+        "80s",
+        "Italic"
     ],
     "engines": {
         "vscode": "^1.34.0"
